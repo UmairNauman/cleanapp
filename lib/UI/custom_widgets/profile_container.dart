@@ -2,7 +2,7 @@ import 'package:cleanapp/UI/screens/upload_screen/upload_screen_view_model.dart'
 import 'package:cleanapp/core/constants/screen_util.dart';
 import 'package:cleanapp/core/constants/styles.dart';
 import 'package:cleanapp/core/models/post.dart';
-import 'package:cleanapp/core/others/Location_service.dart';
+import 'package:cleanapp/core/services/location_service.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:provider/provider.dart';
